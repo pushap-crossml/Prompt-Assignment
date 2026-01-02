@@ -33,8 +33,8 @@ This project is designed as a hands-on exploration of prompt engineering. It foc
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/sujeet-crossml/Prompting_Assignment.git
-cd Prompting_Assignment
+git clone https://github.com/pushap-crossml/Prompt-Assignment.git
+cd Prompt_Assignment
 ```
 
 ### 2️⃣ Create and activate a virtual environment (recommended)
