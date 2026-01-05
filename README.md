@@ -27,7 +27,16 @@ This project is designed as a hands-on exploration of prompt engineering. It foc
 * **SDK:** google-genai
 
 ---
+# Project Structure
 
+Prompt_Assignment/
+├── client.py # Gemini client initialization
+├── constants.py # Model and default generation parameters
+├── prompts.py # All prompt templates and strategies
+├── main.py # Entry point for running experiments
+├── .env # Environment variables (API key)
+├── requirements.txt # Project dependencies
+└── README.md # Project documentation
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
