@@ -5,10 +5,10 @@ from prompt import *
 
 # Main for running workflow
 if __name__ == "__main__":
-    prompt_selection = consistency_prompt
+    prompt_selection = Self_consistency
 
     # if prompt is consistency prompt
-    if prompt_selection == consistency_prompt:
+    if prompt_selection ==  Self_consistency:
         consistency_output = self_consistency(prompt_selection)
         for lst in consistency_output:
             print(f'Output:\n{lst}\n\n')
