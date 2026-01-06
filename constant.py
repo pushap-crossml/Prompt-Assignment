@@ -6,7 +6,7 @@ DEFAULT_PARAMS = {
     "temperature": 0.7,
     "top_p": 0.9,
     "top_k": 30,
-    "max_tokens": 1000
+    "max_tokens": 5000
 }
 
 # Custom config
